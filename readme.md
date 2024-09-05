@@ -1,3 +1,9 @@
+# THIS REPO IS ARCHIVED! 
+Please head to https://github.com/Merith-TK/utils/tree/main/cmd/wscli instead
+
+
+
+-----
 The usage of the `wscli` command is as follows:
 
 ```
